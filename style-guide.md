@@ -12,6 +12,7 @@ The designs were created to the following widths:
 ## Colors
 
 - Green: hsl(75, 94%, 57%)
+- Purple : hsl(276, 71%, 54%)
 
 - White: hsl(0, 0%, 100%)
 
