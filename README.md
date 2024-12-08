@@ -35,8 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Louckoom/Social_Link_Card]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [https://louckoom.github.io/Social_Link_Card/]
 ## My process
 
 - Begin with the adjustment of the HTML.
