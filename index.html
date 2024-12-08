@@ -21,9 +21,11 @@
       justify-content: center;
       align-items: center;
       min-height: 100vh;
+      font-family: Inter;
     }
     h1, h3, p, .attribution, a {
       color: hsl(0, 0%, 100%);
+      text-decoration: none;
     }
     .Card {
       background-color: hsl(0, 0%, 12%);
@@ -33,6 +35,61 @@
       height: fit-content;
       margin: 20px;
       border-radius: 10px;
+      padding: 20px 30px 10px 30px;
+    }
+    .TopContent {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    .Card img {
+      border-radius: 360px;
+      width: 100px;
+      height: 100px;
+      padding: 10px 10px 20px 10px;
+    }
+    .MainTitles h1, h2{
+     margin: 0;
+    }
+    .MainTitles h1 {
+      font-weight: 700;
+      font-size: 20px;
+      padding-bottom: 10px;
+    }
+    .MainTitles h2  {
+      color: hsl(276, 71%, 54%) ;
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 14px;
+    }
+    p {
+      font-size: 12px;
+      font-weight: 300;
+      opacity: 60%;
+    }
+    .links {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 10px;
+    }
+
+    .GitHub, .Frontend_Mentor, .Linkedin, .Twitch, .Youtube, .Instagram {
+      background-color:hsl(0, 0%, 20%) ;
+      padding: 10px;
+      margin: 10px;
+      border-radius: 6px;
+      width: 100%;
+    }
+
+    .GitHub:hover, .Frontend_Mentor:hover, .Linkedin:hover, .Twitch:hover, .Youtube:hover, .Instagram:hover {
+      background-color:hsl(276, 71%, 54%) ;
+    }
+    a {
+      font-weight: 600;
     }
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(276, 71%, 54%); }
