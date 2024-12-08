@@ -58,7 +58,8 @@ I learn to personalize my design using a reference as inspiration and i've creat
 
 ### Continued development
 
-Still want to learn more about layout and responsive design, and hope to get more specialized over time.
+- Want to add Socials links icons on the links part. (Improvement)
+- Still want to learn more about layout and responsive design, and hope to get more specialized over time.
 
 ### Useful resources
 
